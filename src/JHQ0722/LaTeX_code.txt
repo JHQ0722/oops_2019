@@ -1,0 +1,3 @@
+\[
+  	G(x,y)\propto e^{\frac{x^2 + y^2}{2\sigma_d^2}}e^{-\frac{||I(x,y) - I(0,0)||^2}{2\sigma_r^2}}
+\]
